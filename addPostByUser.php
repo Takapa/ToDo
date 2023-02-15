@@ -17,7 +17,7 @@
 </head>
 
 <body>
-    <?php include 'adminMenu.php'; ?>
+    <?php include 'userMenu.php'; ?>
 
     <div class="container-fluid" style="margin-top:50px;">
         <h2 class="display-3 text-center mt-4"><i class="far fa-edit"></i> Add Post</h2>
